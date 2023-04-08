@@ -1,3 +1,47 @@
-\section{Review}
+\section{Review Results}
 
-Blablabla...
+\subsection{Google Scholar}
+
+Number of papers: 156 + 
+
+Selected papers:
+\begin{itemize}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S1569190X19301212?casa_token=W2s1f1zWpggAAAAA:5E-de074HO0CKw9rpeYqHbCEEn1DrYuMqysqPt8Nxq8bdI0e_m4jgsEHBd16_xiN22FSGJj1BURb}{Cloud-Fog-based approach for Smart Grid monitoring}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/9138264}{A Digital Twins Approach to Smart Grid Security Testing and Standardization}
+    \item\href{https://onlinelibrary.wiley.com/doi/full/10.1002/er.6141?casa_token=R4cBSTzspsoAAAAA%3A7cii1Mp3yrlqGq02CLdaJwOjAtqo2uYpIgPPUNGlCcShoOphxsayFeMySEbuD-fF2RijI1iaCWsXDAZv}{Internet of things and cloud computing-based energy management system for demand side management in smart grid}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/8336978?casa_token=CXvLPicv7uYAAAAA:t7e9j5gd6G_ZzGh_Y_5fNdPY_5CIZZlNSaOyZEHN1ItBlCdgXVY3nBUb1BjuNdhXK1CG3uRFLjn9}{A Resilient Architecture for the Smart Grid}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/8449080?casa_token=_I7OAOoGJooAAAAA:__IhYDJulnJMNPhXuYNAq4lru23eNa1RrQ7y5zzNwG1ALmpiEJsEqCzYgikGdzzqPJDjIRZdH8hq}{A Distributed IoT Infrastructure to Test and Deploy Real-Time Demand Response in Smart Grids}
+    \item\href{https://link.springer.com/article/10.1007/s12243-019-00716-8}{Certificateless public key encryption with conjunctive keyword search and its application to cloud-based reliable smart grid system}
+\end{itemize}
+
+
+\subsection{IEEE}
+
+Number of papers:
+
+\begin{itemize}
+    \item\href{https://ieeexplore.ieee.org/document/8890491}{Research on Security Testing and Simulation Platform of Smart Grid Substation System}
+    \item\href{https://ieeexplore.ieee.org/document/9334315}{Design and Implementation of Test System for Power 5G Communication Module Base on Cloud Computing Architecture}
+    \item\href{https://ieeexplore.ieee.org/document/8890491}{Research on Security Testing and Simulation Platform of Smart Grid Substation System}
+    \item\href{https://ieeexplore.ieee.org/document/8714396}{Analysis of Digital Utility Endpoints in Smart Grid using Modular Computing Platform}
+    \item\href{https://ieeexplore.ieee.org/document/9582918}{Monitoring concept suitable for utilising flexibilities in the low-voltage distribution grid: Learning from implementation in Greencity Zurich}
+    \item\href{}{}
+    \item\href{}{}
+\end{itemize}
+
+
+
+\subsection{Xplore}
+
+Number of papers:
+
+Selected papers:
+
+
+\subsection{ACM Digital Library}
+
+Number of papers:
+
+Selected papers:
+
+
