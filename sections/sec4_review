@@ -12,12 +12,22 @@ Selected papers:
     \item\href{https://ieeexplore.ieee.org/abstract/document/8336978?casa_token=CXvLPicv7uYAAAAA:t7e9j5gd6G_ZzGh_Y_5fNdPY_5CIZZlNSaOyZEHN1ItBlCdgXVY3nBUb1BjuNdhXK1CG3uRFLjn9}{A Resilient Architecture for the Smart Grid}
     \item\href{https://ieeexplore.ieee.org/abstract/document/8449080?casa_token=_I7OAOoGJooAAAAA:__IhYDJulnJMNPhXuYNAq4lru23eNa1RrQ7y5zzNwG1ALmpiEJsEqCzYgikGdzzqPJDjIRZdH8hq}{A Distributed IoT Infrastructure to Test and Deploy Real-Time Demand Response in Smart Grids}
     \item\href{https://link.springer.com/article/10.1007/s12243-019-00716-8}{Certificateless public key encryption with conjunctive keyword search and its application to cloud-based reliable smart grid system}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/9181961?casa_token=fU6Sxe-_6gAAAAAA:zIAKpQ5aug_YARowkP7vmDqG_y2qgkpCmnyTmGUbiiTVucPCtGf31qY5VPmphWYUo4c8mLcBLY7B}{The Design of a Novel Smart Home Control System using Smart Grid Based on Edge and Cloud Computing}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S1874548217301555?casa_token=YpK_TeBKuesAAAAA:nIz6w9mu4zvez52ekTmPDsh-Lu1fNfLxYUheqnCVew1K2jWrq-yf2GMovfS8C5dTAOBjG5470p4K}{Securing the cloud-assisted smart grid}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/8480296?casa_token=aRgit-pr29AAAAAA:MlRYkr8bgmZ-4f-O8v8WlDnrp3KL0yvIf_KPCS_DonL6MThvDSFzhLfAAkc_aqeJxfGy250R_rE5}{Smart Grid: a demanding use case for 5G technologies}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S0045790617313423?casa_token=W9hhfE15bvIAAAAA:6jJLw3kzmDpyOW9E6zDtBEk8bVzhpAsuvjGibLLhQixthpFGXgpyDjVj23zLeHhlAyAs6pFkNb8q}{Cyber-security in smart grid: Survey and challenges}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S2210670720300366?casa_token=rywWsOz7bmEAAAAA:XJgy1ZazyRtlTn2L_WIn1iyaCnwKaliAiUY2YY_Hi5lvLxZS2ejTRhDEE4Rb3xgru-9RtdKOYSOD}{Hybrid-cloud-based data processing for power system monitoring in smart grids}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S1389128617303912?casa_token=48eayICfMYEAAAAA:7K7bT7uSiUZgHQO9a5q24r-bTeVByNjTOX4iD1pxIOr0XkJBAh0IqQ3CP7KxZ7DH6Ovr2Mu01O3c}{Cloud-based IoT solution for state estimation in smart grids: Exploiting virtualization and edge-intelligence technologies}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S0166361518303749?casa_token=geQQzCqXmskAAAAA:KeooxrKLRl3SHXw1fnI79BAtzVF7rHjCjuK_296c6ZvG8Ri33bYbpQoMJfyR9aN_se2-WEfMv-TN}{A Big Data platform for smart meter data analytics}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S2210670720300366?casa_token=8hyIVNM1edsAAAAA:kM-RPTN2YUeoNlnhrm8cWUrZG1WYMm_axx7RgVIUKCOqMGSC7d6XTwPLMdCm6ExTTpDyNlp5Qw_e}{Hybrid-cloud-based data processing for power system monitoring in smart grids}
+    \item\href{https://www.sciencedirect.com/science/article/pii/S1389128617303912?casa_token=48eayICfMYEAAAAA:7K7bT7uSiUZgHQO9a5q24r-bTeVByNjTOX4iD1pxIOr0XkJBAh0IqQ3CP7KxZ7DH6Ovr2Mu01O3c}{Cloud-based IoT solution for state estimation in smart grids: Exploiting virtualization and edge-intelligence technologies}
 \end{itemize}
 
 
-\subsection{IEEE}
+\subsection{IEEE eXplore}
 
 Number of papers:
+
 Selected papers:
 \begin{itemize}
     \item\href{https://ieeexplore.ieee.org/document/8890491}{Research on Security Testing and Simulation Platform of Smart Grid Substation System}
@@ -25,17 +35,13 @@ Selected papers:
     \item\href{https://ieeexplore.ieee.org/document/8890491}{Research on Security Testing and Simulation Platform of Smart Grid Substation System}
     \item\href{https://ieeexplore.ieee.org/document/8714396}{Analysis of Digital Utility Endpoints in Smart Grid using Modular Computing Platform}
     \item\href{https://ieeexplore.ieee.org/document/9582918}{Monitoring concept suitable for utilising flexibilities in the low-voltage distribution grid: Learning from implementation in Greencity Zurich}
-    \item\href{}{}
-    \item\href{}{}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/8752482?casa_token=zXwK5htp9FEAAAAA:SI84SRiblbZ8rOYYwfio4_Hglmy0ryt3S-XbCBP-lNth6ifDapfqgNIe-EMLm5N3zypGgrO-_oRI}{Fog Computing for Smart Grid Systems in the 5G Environment: Challenges and Solutions}
+    \item\href{https://ieeexplore.ieee.org/document/9611908}{Deployment and Performance Verification of 5G Smart Grid Based on LoRa}
+    \item\href{https://ieeexplore.ieee.org/document/8408953}{Data storage in smart grid systems}
+    \item\href{https://ieeexplore.ieee.org/abstract/document/8990712?casa_token=b7zJpN7icXEAAAAA:bRr6In_DYuVF_DiJtQz0vBqkr_8Clp25jOu_v_I9kp_tQTM5V_2tgtuEweMm0DnC6wDj4vKWkyVE}{Smart Grid Co-Simulation Tools: Review and Cybersecurity Case Study}
+    \item\href{https://ieeexplore.ieee.org/document/7741075}{Cloud communication for remote access smart grid testbeds} (2016)
 \end{itemize}
 
-
-
-\subsection{Xplore}
-
-Number of papers:
-
-Selected papers:
 
 
 \subsection{ACM Digital Library}
@@ -43,5 +49,15 @@ Selected papers:
 Number of papers:
 
 Selected papers:
+\begin{itemize}
+    \item\href{https://dl.acm.org/doi/10.1145/3368235.3368832}{Héctor: A Framework for Testing IoT Applications Across Heterogeneous Edge and Cloud Testbeds} (iot)
+    \item\href{https://dl.acm.org/doi/10.1145/3107091.3107093}{Testing uncertainty of cyber-physical systems in IoT cloud infrastructures: combining model-driven engineering and elastic execution} (iot)
+    \item\href{https://dl.acm.org/doi/10.1145/3144457.3144490}{Modeling and Provisioning IoT Cloud Systems for Testing Uncertainties} (iot)
+    \item\href{https://dl.acm.org/doi/10.1145/3278186.3278196}{Test patterns for IoT} (iot)
+    \item\href{https://dl.acm.org/doi/10.5555/3374138.3374155}{On the simulation of smart grid environments} (no cloud)
+    \item\href{https://dl.acm.org/doi/10.1145/3186318}{Combining Simulation and Emulation Systems for Smart Grid Planning and Evaluation} (no cloud)
+    \item\href{https://dl.acm.org/doi/10.1145/3529509}{Resource Orchestration of Cloud-Edge–based Smart Grid Fault Detection}
+\end{itemize}
+
 
 
