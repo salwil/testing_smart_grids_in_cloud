@@ -1,4 +1,13 @@
 \section{Review Results}
+\subsection{IoT cloud testing}
+\citeauthor{bertolino2019systematic} state in 
+
+\subsection{Smart grid security}
+
+\subsection{Smart grid performance}
+
+\subsection{Cloud test environment simulation}
+It turns out that the robustness, safety and reliability of a smart grid can be tested upfront in various manners. There is the safety and performance requirement on one hand towards the software of a single device in the grid and on the other hand towards the interplay of many component - in the end the entire smart grid. 
 
 \subsection{Google Scholar}
 
@@ -41,7 +50,6 @@ Selected papers:
     \item\href{https://ieeexplore.ieee.org/abstract/document/8990712?casa_token=b7zJpN7icXEAAAAA:bRr6In_DYuVF_DiJtQz0vBqkr_8Clp25jOu_v_I9kp_tQTM5V_2tgtuEweMm0DnC6wDj4vKWkyVE}{Smart Grid Co-Simulation Tools: Review and Cybersecurity Case Study}
     \item\href{https://ieeexplore.ieee.org/document/7741075}{Cloud communication for remote access smart grid testbeds} (2016)
 \end{itemize}
-
 
 
 \subsection{ACM Digital Library}
