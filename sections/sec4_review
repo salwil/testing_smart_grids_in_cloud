@@ -4,14 +4,21 @@ In 2019, \citeauthor{bertolino2019systematic} concluded in their \textit{systema
 
 In the past three years there has been progress in research as well as in industries employing IoT in regard to cloud testing. First of all more and more cloud infrastructure is provided for IoT. Cloud computing offers expanded performance and scalability. IoT devices benefit of this extraordinary deal of capacity to share information (\citeauthor{laghari2021review}). Moreover, costs for resource consumption arise by degree of usage. However \citeauthor{laghari2021review} emphasize downsides of cloud computing in terms of IoT. Especially the data ownership and communication latency represent challenges. The latter is where Fog IoT comes into play. Fog IoT instead of locating data recording, processing and storage in one place, namely in the cloud, reorganizes the IT structure by placing the capabilities of the cloud somewhere "in the middle" between the data gathering hardware and the cloud. At the same time Fog IoT can also be used to ensure safety and compliance (\citeauthor{laghari2021review}). Fog IoT does not replace cloud IoT, it is more of a complement, addressing the weaknesses of cloud IoT.
 
-Testing of cloud IoT can be done in various ways. Aptly, \citeauthor{kim2018iot} sum up: \textit{"The amount of IoT devices and their collaborative behavior causes new challenges to the scalability of traditional software testing, and the heterogeneity of IoT devices increases costs and the complexity of coordination of testing due to the number of variables."} They introduce how IoT Testing as a Service (IoT TaaS) \textit{"aims to resolve constraints regarding coordination, costs, and scalability issues of traditional software testing in the context of standards-based development of IoT devices"}. In short, they propose cloud-based automated testing of IoT and ...
+IoT testing poses new challenges. \citeauthor{kim2018iot} sum up aptly: \textit{"The amount of IoT devices and their collaborative behavior causes new challenges to the scalability of traditional software testing, and the heterogeneity of IoT devices increases costs and the complexity of coordination of testing due to the number of variables."} They introduce how IoT Testing as a Service (IoT TaaS) \textit{"aims to resolve constraints regarding coordination, costs, and scalability issues of traditional software testing in the context of standards-based development of IoT devices"}. They design how a prospective IoT testing framework supports new requirements of IoT testing, like automatic test operation, flexible protocols, reduced costs, and better scalability and they present related work and research on various IoT test systems. Basically, they propose to rethink traditional interoperability and conformance testing approaches and semantic validation in IoT by putting the core testing logic into a so-called IoT-TaaS cloud.
+
+(ev. Bild (vereinfacht) aus \href{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281514}{IoT-TaaS: Towards a Prospective
+IoT Testing Framework}, S. 15490)
 
 \subsection{Smart grid security}
 
 \subsection{Smart grid performance}
 
+\subsection{Smart grid conformance and interoperability testing}
+
+\subsection{Smart grid semantic validation}
+
 \subsection{Cloud test environment simulation}
-It turns out that the robustness, safety and reliability of a smart grid can be tested upfront in various manners. There is the safety and performance requirement on one hand towards the software of a single device in the grid and on the other hand towards the interplay of many component - in the end the entire smart grid. 
+It turns out that the robustness, safety and reliability of a smart grid should be tested upfront in various manners. There is the safety and performance requirement on one hand towards the software of a single device in the grid and on the other hand towards the interplay of many component - in the end the entire smart grid. 
 
 \subsection{Google Scholar}
 
