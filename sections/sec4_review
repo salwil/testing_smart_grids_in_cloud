@@ -9,13 +9,15 @@ IoT testing poses new challenges. \citeauthor{kim2018iot} sum up aptly: \textit{
 (ev. Bild (vereinfacht) aus \href{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281514}{IoT-TaaS: Towards a Prospective
 IoT Testing Framework}, S. 15490)
 
-\subsection{Smart grid security}
+\subsection{Testing of smart grids}
 
-\subsection{Smart grid performance}
+%\subsection{Smart grid security}
 
-\subsection{Smart grid conformance and interoperability testing}
+%\subsection{Smart grid performance}
 
-\subsection{Smart grid semantic validation}
+%\subsection{Smart grid conformance and interoperability testing}
+
+%\subsection{Smart grid semantic validation}
 
 \subsection{Cloud test environment simulation}
 It turns out that the robustness, safety and reliability of a smart grid should be tested upfront in various manners. There is the safety and performance requirement on one hand towards the software of a single device in the grid and on the other hand towards the interplay of many component - in the end the entire smart grid. 
