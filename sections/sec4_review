@@ -12,6 +12,8 @@ IoT Testing Framework}, S. 15490)
 \subsection{Testing of smart grids}
 Smart grids testing faces similar challenges like in general does IoT testing. Smart grids represent highly heterogenous soft- and hardware landscapes. \citeauthor{smadi2021comprehensive} point out that the complex nature of smart grid structure requires the implementation of testbeds including different capabilities for extensive experimental verifications and that so far most testbeds do not provide complete hardware and software platforms to test for all research applications simultaneously. Furthermore they suggest the usage of testbeds simulating power grids where control, operation, and security algorithms can be explored, developed, evaluated, and validated. With testbeds, instead of working directly on the real physical system, a model of an actual power grid can be used.
 
+\citeauthor{behnke2019hector} present the employment of Héctor, a \textit{Framework for testing IoT applications accross heterogeneous edge and cloud testbeds}.
+
 %\subsection{Smart grid security}
 
 %\subsection{Smart grid performance}
