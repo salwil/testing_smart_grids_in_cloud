@@ -25,7 +25,7 @@ Smart grids testing faces mostly the same difficulties like in general does IoT 
 
 Cloud technologies are a substantial part in the rise of smart grids. IoT devices, like smart meters, compose a sensor network to collect physical world data, which is uploaded into commercial clouds, that provide flexible computational resources as utilities to build up the cloud based application systems \cite{li2019performance}. 
 \begin{figure}[htbp]
-\centerline{\includegraphics[scale=0.412]{images/example_of_iot-cloud_architecture.png}}
+\centerline{\includegraphics[scale=0.37]{images/example_of_iot-cloud_architecture.png}}
 \caption{Example of IoT-Cloud architecture by \citeauthor{li2019performance}. The application layer tends to be cloud-based.}
 \label{fig}
 \end{figure}
@@ -50,7 +50,7 @@ In view of the \textit{ever large cyber attack surface caused by the exponential
 Besides the big advantages of smart grids integrating the cloud, \citeauthor{demir2018securing} highlight the security risks smart grids are exposed to, due to the cloud's usage of the public network and shared resources. They propose a \textit{hybrid hierarchical cloud-extension concept (HHCEC)}, with a 3-layer cloud-assisted architecture, that takes smart grid security requirements into account, with the implementation of \textit{hybrid and geographically dispersed structure and a specialized broker-based publish-subscribe communication system}, a \textit{strong proactive DDoS attack defence mechanism}, and a token-based authentication mechanism. For testing their prototype, they used (amongst other) \textit{Amazon Elastic Compute Cloud (EC2)}. EC2, as part of Amazon.com's cloud-computing platform, rent virtual computers to users, so that they can run their own applications on them. \citeauthor{demir2018securing} used two EC2 micro instances, one that represents a broker server (first layer of HHCEC), and the second for running the smart grid application (third layer of HHCEC). They assessed the effectiveness of HHCEC in a large network by emulating the proof-of-concept in EC2. HHCEC and the way it was evaluated represent a good example of \textit{Testing of the cloud in the cloud (ToiC)}.
 
 \begin{figure}[htbp]
-\centerline{\includegraphics[scale=0.35]{images/securing_the_cloud-assisted_smart_grid.png}}
+\centerline{\includegraphics[scale=0.33]{images/securing_the_cloud-assisted_smart_grid.png}}
 \caption{Hybrid hierarchical cloud concept (HHCEC) by \citeauthor{demir2018securing}}
 \label{fig}
 \end{figure}
